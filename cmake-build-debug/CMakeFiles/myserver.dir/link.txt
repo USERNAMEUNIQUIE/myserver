@@ -1,0 +1,1 @@
+/usr/bin/c++   -lpqxx -lpq -g   CMakeFiles/myserver.dir/src/main.cpp.o CMakeFiles/myserver.dir/src/profile.cpp.o  -o myserver /usr/local/lib/libpqxx.a /usr/lib/x86_64-linux-gnu/libpq.so 

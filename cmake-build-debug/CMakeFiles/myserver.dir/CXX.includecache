@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rostom/CLionProjects/myserver/src/main.cpp
+iostream
+-
+profile.h
+/home/rostom/CLionProjects/myserver/src/profile.h
+string
+-
+pqxx/pqxx
+-
+
+/home/rostom/CLionProjects/myserver/src/profile.cpp
+profile.h
+/home/rostom/CLionProjects/myserver/src/profile.h
+iostream
+-
+pqxx/pqxx
+-
+
+/home/rostom/CLionProjects/myserver/src/profile.h
+string
+-
+pqxx/pqxx
+-
+
